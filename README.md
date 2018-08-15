@@ -17,12 +17,15 @@ Finally, in your terminal, type npm start
 The App Functionalities are : 
 
 1- As a Customer:
+
 You have the option to purchase items from existing inventory. 
 Follow the prompt. After each purchase, you will be provided with total amount. If there is not enough inventory, an error message will appear. 
 
 ![customer](https://user-images.githubusercontent.com/37123136/44159562-a9c56c00-a06c-11e8-828f-74373db013ea.jpg)
 
-2 - As a Manager , You have a number of options to choose from:
+2 - As a Manager 
+
+You have a number of options to choose from:
 
 ![manager1](https://user-images.githubusercontent.com/37123136/44159941-b9918000-a06d-11e8-8032-4c25b2a6d088.jpg)
 
