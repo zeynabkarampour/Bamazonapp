@@ -42,6 +42,7 @@ Follow the prompt. After each purchase, you will be provided with total amount. 
  ![addnewproducts](https://user-images.githubusercontent.com/37123136/44160655-e8105a80-a06f-11e8-95ef-ab591b6c20af.jpg)
  
  3 - As a Supervisor 
+ 
    Before Run anythings here , you need Run 'npm install console.table' first inside node-bamazon directory 
    
  You have two options to choose from. 
