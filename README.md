@@ -9,8 +9,11 @@ App supports three different types of users
 ---------
 Before Start running , you need a few Installations :
 
+
 Run npm install first inside node-bamazon directory
+
 Start a MySQL server, such as MAMP
+
 Finally, in your terminal, type npm start
 
 --------
